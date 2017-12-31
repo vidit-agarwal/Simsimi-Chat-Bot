@@ -10,6 +10,7 @@ SimSimi is a popular artificial intelligence conversation program created in 200
 ![preview](simsimi.png)
 
 ## Download the apk
+https://github.com/vidit-agarwal/Simsimi-Chat-Bot/blob/master/app-debug.apk
 
 
 
